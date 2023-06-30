@@ -21,18 +21,19 @@ body{
     
 }
 
-#titulo{
 
-}
 
-#alinhar{
+.alinhar{
     outline: #0e0872;
     border-radius: 7px;
     font-family: 'Times New Roman', Times, serif;
     color: #0e0872;
     border: purple;
+    margin: 10px;
     
 }
+
+
 
 .valores{
     align-items: center;
